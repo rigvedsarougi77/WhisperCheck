@@ -1,0 +1,7 @@
+streamlit
+torch
+whisper
+pytube
+librosa
+matplotlib
+numpy
